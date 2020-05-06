@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="it_language_semesters">
+        <item>Website content.  Taught in 1st semester of Ranken Technical College Application and Website Development Program</item>
+        <item>Website aesthetics.  Taught in 1st semester of Ranken Technical College Application and Website Development Program</item>
+        <item>Website interactivity.  Taught in 1st semester of Ranken Technical College Application and Website Development Program</item>
+        <item>Website interactivity.  Taught in 1st semester of Ranken Technical College Application and Website Development Program</item>
+        <item>Uses CSS classes.  Taught in 1st semester of Ranken Technical College Application and Website Development Program</item>
+        <item>Build business apps.  Taught in 2nd semester of Ranken Technical College Application and Website Development Program</item>
+        <item>Database language.  Taught in 2nd semester of Ranken Technical College Application and Website Development Program</item>
+        <item>Database-driven websites.  Taught in 3rd semester of Ranken Technical College Application and Website Development Program</item>
+        <item>Build business applications.  Taught in 4th semester of Ranken Technical College Application and Website Development Program</item>
+        <item>Build Android apps.  Taught in 4th semester of Ranken Technical College Application and Website Development Program</item>
+    </string-array>
+</resources>
